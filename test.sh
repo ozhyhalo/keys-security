@@ -1,2 +1,4 @@
 set +x
-echo $CREDS
+echo $KEY
+echo $PAR
+echo $USER_NAME
